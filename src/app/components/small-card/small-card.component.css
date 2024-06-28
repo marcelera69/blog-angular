@@ -7,6 +7,7 @@
 .container__smal-card-content{
     display: flex;
     flex-direction: row;
+    gap: 20px;
 }
 
 .small-card__photo > img{
@@ -15,7 +16,7 @@
 }
 
 .small-card__title > h1{
-    text-align: center;
+    font-size: 24px;
 }
 
 .container__smal-card-separator{
